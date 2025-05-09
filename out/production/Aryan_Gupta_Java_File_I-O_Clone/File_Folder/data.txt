@@ -1,0 +1,3 @@
+it is used for reading lines
+and also used for counting lines
+therefore please stay tuned

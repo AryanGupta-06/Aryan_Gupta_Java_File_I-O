@@ -1,0 +1,24 @@
+this is a source file
+from which
+we are coping text to backup file.
+This is my first file in Java.
+this is used as java reader file to count the number of java words in this java reader file.
+this is a source file
+from which
+we are coping text to backup file.
+this is a reader file.
+2025-05-09 08:40:56 - DEBUG - This is a DEBUG message.
+2025-05-09 08:40:56 - DEBUG - This is a DEBUG message.
+2025-05-09 08:40:56 - INFO - This is a INFO message.
+2025-05-09 08:40:56 - ERROR - This is a ERROR message.
+2025-05-09 08:40:56 - ERROR - This is a ERROR message.
+2025-05-09 08:40:56 - INFO - This is a INFO message.
+2025-05-09 08:40:56 - WARNING - This is a WARNING message.
+2025-05-09 08:40:56 - DEBUG - This is a DEBUG message.
+2025-05-09 08:40:56 - DEBUG - This is a DEBUG message.
+2025-05-09 08:40:56 - DEBUG - This is a DEBUG message.
+Last updated on 2025-05-09
+
+it is used for reading lines
+and also used for counting lines
+therefore please stay tuned

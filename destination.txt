@@ -1,0 +1,3 @@
+this is a source file
+from which
+we are coping text to backup file.

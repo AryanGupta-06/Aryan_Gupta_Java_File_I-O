@@ -1,0 +1,1 @@
+this is used as java reader file to count the number of java words in this java reader file.
